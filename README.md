@@ -6,4 +6,4 @@ Host folder = profit
 ```
 ## DEMO
 
-[CLICK](https://converter-76bb4.web.app/g)
+[CLICK](https://converter-76bb4.web.app/)
